@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Cube {
-    
+    //test
     enum Moves {
         UP,
         DOWN,
